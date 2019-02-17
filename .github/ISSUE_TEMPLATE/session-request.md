@@ -1,7 +1,7 @@
 ---
 name: Session Request
 about: Suggest an topics for your requested session
-title: ''
+title: Session Application
 labels: ''
 assignees: ''
 
