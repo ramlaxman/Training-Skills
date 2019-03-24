@@ -1,13 +1,31 @@
-Session Types:
+### Welcome to Training Skills for Your Students and Employees.
+#### I can conduct following sessions:
 
 Yes - Y
 
-No - N
+
+
+Session Types:
 
 |  Topics                  | Talk  | Demo |Workshop|
 |:------------------------:|:-----:| ----:| ----:|
 | Cloud Computing          | Y     |  Y   |   Y  | 
-| Distributed Computing    | Y     |  Y   |   Y  |
+| Distributed File System  | Y     |  Y   |   Y  |
+| Serverless               | Y     |      |      |
+| Microservices            | Y     |      |      |
+| Web Services             | Y     |      |      |
+| HTTP                     | Y     |  Y   |      |
+| DNS                      | Y     |      |      |
+|           **CryptoCurrency**                   |
+| Blockchain               | Y     |  Y   |   Y  |
+|                   **Devops**                   |
+| Github                   | Y     |  Y   |   Y  | 
+| Python                   | Y     |  Y   |   Y  |
+| Jenkins                  | Y     |  Y   |   Y  | 
+| Docker                   | Y     |  Y   |   Y  |
+| Ansible                  | Y     |      |      | 
+| Kubernetes (K8s)         | Y     |  Y   |      |
+
  
 
 Sessions in Past:
