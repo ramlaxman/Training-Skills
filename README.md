@@ -1,11 +1,21 @@
 Session Types:
 
-| Topics        | Talks         | Workshop |
-| ------------- |:-------------:| -----:   |
-| col 3 is      | right-aligned | $1600    |
-| col 2 is      | centered      |   $12    |
-| zebra stripes | are neat      |    $1    | 
+Yes - Y
 
+No - N
+
+|  Topics                  | Talk  | Demo |Workshop|
+|:------------------------:|:-----:| ----:| ----:|
+| Cloud Computing          | Y     |  Y   |   Y  | 
+| Distributed Computing    | Y     |  Y   |   Y  |
+ 
+
+Sessions in Past:
+
+|2019   |Devops Session: Github |
+|       | Github for Girls|
+|:------|:----|
+|2018    ||
 
 Introduction to Openstack Services
 Objective: 
