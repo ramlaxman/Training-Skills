@@ -9,6 +9,9 @@ Session Types:
 
 |  Topics                  | Talk  | Demo |Workshop|
 |:------------------------:|:-----:| ----:| ----:|
+| Operating Systems        | Y     |  Y   |   Y  |
+| Databases Systems        | Y     |  Y   |   Y  |
+| Computer Networks        | Y     |  Y   |   Y  |
 | Cloud Computing          | Y     |  Y   |   Y  | 
 | Distributed File System  | Y     |  Y   |   Y  |
 | Serverless               | Y     |      |      |
